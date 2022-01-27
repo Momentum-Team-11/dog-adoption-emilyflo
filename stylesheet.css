@@ -1,0 +1,27 @@
+h1 {
+    color: white;
+    font-family: "Open Sans";
+    background-color: #004175;
+    padding: 1rem;
+    margin: 0;
+    }
+
+header {
+    border-bottom: 2px solid;
+    border-color: #89DEEF;
+}
+
+h2 {
+    font-family: "Open Sans";
+    color: black;
+}
+
+body {
+    font-family: "Open Sans";
+    color: black;
+}
+
+h3 {
+    font-family: "Oswald";
+    color: black;
+}
